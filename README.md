@@ -29,6 +29,11 @@
 ## 3. Summary:
 
 ### High-level summary of the results 
+
+![Dashboard1_Module](https://github.com/Super-Manda/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard%20from%20Module.png)
+
+![Dashboard2_Challenge](https://github.com/Super-Manda/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard2%20from%20Challenge.png)
+
 - 
 
 ### Two additional visualizations for future analysis:
