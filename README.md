@@ -2,7 +2,7 @@
 
 ## 1. Overview of the statistical analysis:
 
-### The purpose of this analysis is to see if bike sharing trends in NYC can translate into creating a successful bike sharing business in Des Moines.
+### The purpose of this analysis is to see if bike sharing trends in NYC can translate into creating a successful bike sharing business in Des Moines.  Investors would like to see various visualizations as part of a sales pitch, such as the duration of the rides, what time of day people ride, whether riders are Subscribers or Customers, and the number of bike trips taken at each hour of each day of the week.  This presentation will also present other variables pertaining to localizing/marketing such a product into Des Moines.
 
 
 ## 2. Results:
@@ -42,7 +42,7 @@
 ![8_Top_Starting_Locations](https://github.com/Super-Manda/bikesharing/blob/main/Resources/8%20Top%20starting%20locations.png)
 
 #### 7. Highest to Lowest Ridership Times
-- The optimal time to repair the bikes and rotate the fleet without impacting users would be after the bars close and ridership is lowest, around 3-4 AM.
+- The optimal time to repair the bikes and rotate the fleet without impacting users would be when ridership is lowest, around 3-4 AM.
 ![9_Highest_To_Lowest_Ridership_Times](https://github.com/Super-Manda/bikesharing/blob/main/Resources/9%20Highest%20to%20Lowest%20Ridership.png)
 
 
