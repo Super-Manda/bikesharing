@@ -2,7 +2,8 @@
 
 ## 1. Overview of the statistical analysis:
 
-### The purpose of this analysis is to see if bike sharing trends in NYC can translate into creating a successful bike sharing business in Des Moines.  Investors would like to see various visualizations as part of a sales pitch, such as the duration of the rides, what time of day people ride, whether riders are Subscribers or Customers, and the number of bike trips taken at each hour of each day of the week.  This presentation will also present other variables pertaining to localizing/marketing such a product into Des Moines.
+### 
+**The purpose of this analysis is to see if bike sharing trends in NYC can translate into creating a successful bike sharing business in Des Moines.  Investors would like to see various visualizations as part of a sales pitch, such as the duration of the rides, what time of day people ride, whether riders are Subscribers or Customers, and the number of bike trips taken at each hour of each day of the week.  This presentation will also present other variables pertaining to localizing/marketing such a product into Des Moines.**
 
 
 ## 2. Results:
