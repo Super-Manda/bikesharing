@@ -5,6 +5,7 @@
 ### 
 **The purpose of this analysis is to see if bike sharing trends in NYC can translate into creating a successful bike sharing business in Des Moines.  Investors would like to see various visualizations as part of a sales pitch, such as the duration of the rides, what time of day people ride, whether riders are Subscribers or Customers, and the number of bike trips taken at each hour of each day of the week.  This presentation will also present other variables pertaining to localizing/marketing such a product into Des Moines.**
 
+#### - Here is the [link to the presentation](https://public.tableau.com/views/Book1_16622643831360/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## 2. Results:
 
@@ -49,7 +50,9 @@
 
 
 #### 6. Top Starting Locations
-- In NYC, there is tourism in Manhattan, so bike rotation would be a good idea if Customers tend to pick up the bikes from Times Square and then leave them somewhere else.  On this map below, the 14,571 corresponds to approximately Times Square, but there is also activity south of that.  Des Moines is not as dense as NYC, so rotating the bikes may be a little easier to predict if tourists have to travel farther and if there is no subway there for riders to take their bike on.  It is unknown if workers would subscribe to ride to work the way they might in NYC, but Des Moines has similar square-like streets to Manhattan.  These are very different locations, but Des Moines would have a smaller bike fleet to be concerned about, which may make it more manageable.
+- In NYC, there is tourism in Manhattan, so bike rotation would be a good idea if Customers tend to pick up the bikes from Times Square and then leave them somewhere else.  Des Moines is not as dense as NYC, so rotating the bikes may be a little easier to predict if tourists have to travel farther and if there is no subway there for riders to take their bike on.  
+- On this map below, the 14,571 corresponds to approximately Times Square, but there is also activity south of that.  
+- It is unknown if workers would subscribe to ride to work the way they might in NYC, but Des Moines has similar square-like streets to Manhattan.  These are very different locations, but Des Moines would have a smaller bike fleet to be concerned about, which may make it more manageable.
 
 ![8_Top_Starting_Locations](https://github.com/Super-Manda/bikesharing/blob/main/Resources/8%20Top%20starting%20locations.png)
 
@@ -67,6 +70,7 @@
 ### High-level summary of the results 
 - Does NYC Relate to Des Moines?  In NYC, there is tourism in Manhattan as well as commuters who subscribe to bike sharing, so bike rotation would seem a little more chaotic.  Des Moines is not as dense or populated as NYC, so rotating the bikes may be a little easier to predict in Des Moines if tourists have to travel farther, but there is no subway there for riders to take their bike on.  If Des Moines is not currently entertaining tourists, then a bike sharing program may also entice more visitors to come to the state capital of Iowa.  It is unknown if workers would subscribe to ride to work the way they might in NYC, but Des Moines has similar square-like streets to Manhattan.  These are very different locations, but Des Moines would have a smaller bike fleet to be concerned about, which may make it more manageable and alluring.  The gender demographics of both cities are similar-- Des Moines has slightly more men, which could only help, given that men are more apt to bike.
 
+Here are the dashboards that can be found in the file regarding the over 2 million trips taken.
 ![Dashboard1_Module](https://github.com/Super-Manda/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard%20from%20Module.png)
 
 ![Dashboard2_Challenge](https://github.com/Super-Manda/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard2%20from%20Challenge.png)
