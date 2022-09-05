@@ -55,9 +55,16 @@
 - 
 
 ### Two additional visualizations for future analysis:
-
-
+#### 1. Sum of Trip Duration by Generation and Gender
+- There is an unknown group of 1960s Baby Boomers who spend a lot of time biking.  
+- Younger people, born in the 1980s and 1990s, are the most avid bikers.  
+- Generation Z appears to not know how to ride a bike anymore, and/or has no interest in biking, given that the people born in the 1950s are more avid bikers than they are, despite being around 70 years old.  
+- Men tend to out-bike women at all ages.
 ![6_Trip_Duration_by_Generation_and_Gender](https://github.com/Super-Manda/bikesharing/blob/main/Resources/6%20Trip%20Duration%20by%20Generation%20and%20Gender.png)
 
 
+#### 2. Trip Duration by Generation and UserType
+- Customers only need a day pass, whereas subscribers need an annual pass.  
+- In this case, the annual subscribers are the younger people, for the most part.  
+- Those born in the 1960s are more apt to be customers, suggesting that they may not need to bike every day.  Some may be retired.
 ![7_Trip_Duration_by_Generation_and_UserType](https://github.com/Super-Manda/bikesharing/blob/main/Resources/7%20Trip%20Duration%20by%20Generation%20and%20UserType.png)
