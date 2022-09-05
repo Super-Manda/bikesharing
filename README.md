@@ -67,10 +67,16 @@
 
 ## 3. Summary:
 
-### High-level summary of the results 
-- Does NYC Relate to Des Moines?  In NYC, there is tourism in Manhattan as well as commuters who subscribe to bike sharing, so bike rotation would seem a little more chaotic.  Des Moines is not as dense or populated as NYC, so rotating the bikes may be a little easier to predict in Des Moines if tourists have to travel farther, but there is no subway there for riders to take their bike on.  If Des Moines is not currently entertaining tourists, then a bike sharing program may also entice more visitors to come to the state capital of Iowa.  It is unknown if workers would subscribe to ride to work the way they might in NYC, but Des Moines has similar square-like streets to Manhattan.  These are very different locations, but Des Moines would have a smaller bike fleet to be concerned about, which may make it more manageable and alluring.  The gender demographics of both cities are similar-- Des Moines has slightly more men, which could only help, given that men are more apt to bike.
+### Summary of the Results 
+- **Does NYC Relate to Des Moines?**  
+- In NYC, there is tourism in Manhattan as well as commuters who subscribe to bike sharing, so bike rotation would seem a little more chaotic.  Des Moines is not as dense or populated as NYC, so rotating the bikes may be a little easier to predict in Des Moines if tourists have to travel farther, but there is no subway there for riders to take their bike on.  If Des Moines is not currently entertaining tourists, then a bike sharing program may also entice more visitors to come to the state capital of Iowa.  It is unknown if workers would subscribe to ride to work the way they might in NYC, but Des Moines has similar square-like streets to Manhattan.  These are very different locations, but Des Moines would have a smaller bike fleet to be concerned about, which may make it more manageable and alluring.  
 
-Here are the dashboards that can be found in the file regarding the over 2 million trips taken.
+- The gender demographics of both cities are similar-- Des Moines has slightly more men, which could only help, given that men are more apt to bike.
+
+- Based upon the heat maps, Des Moines should monitor Sundays and Wednesdays to see if they have the same patterns as NYC and may be in need of incentives.  Likewise, Thursdays should be busy biking days.
+
+- Here are the dashboards that can be found in the file regarding the over 2 million trips taken.
+
 ![Dashboard1_Module](https://github.com/Super-Manda/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard%20from%20Module.png)
 
 ![Dashboard2_Challenge](https://github.com/Super-Manda/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard2%20from%20Challenge.png)
