@@ -7,6 +7,7 @@
 
 #### - Here is the [link to the presentation](https://public.tableau.com/views/Book1_16622643831360/CheckoutTimesforUsers?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+
 ## 2. Results:
 
 ### Visualizations for the NYC Citibike analysis
@@ -81,7 +82,10 @@
 
 ![Dashboard2_Challenge](https://github.com/Super-Manda/bikesharing/blob/main/Resources/NYC%20Citi%20Bike%20Dashboard2%20from%20Challenge.png)
 
-- Thus far, the analysis has been lacking the specifics of the age demographics of the NYC riders, so these are presented below.  The age demographics will likely influence whether someone is a Subscriber or a Customer and the time of day/ day of the week when they may frequently ride.  It would be important for Des Moines to adjust their bike sharing program to the market needs if their age demographics are older or younger than NYC's demographics. 
+
+
+
+- **Thus far, the analysis has been lacking the specifics of the age demographics of the NYC riders, so these are presented below.  The age demographics will likely influence whether someone is a Subscriber or a Customer and the time of day/ day of the week when they may frequently ride.  It would be important for Des Moines to adjust their bike sharing program to the market needs if their age demographics are older or younger than NYC's demographics.**
 
 ### Two additional visualizations for future analysis:
 #### 1. Sum of Trip Duration by Generation and Gender
