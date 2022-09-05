@@ -37,11 +37,15 @@
 - Overall, Wednesday appears to suffer low ridership in both groups (Customers and Subscribers).
 ![5_User_Trips_by_Gender_by_Weekday](https://github.com/Super-Manda/bikesharing/blob/main/Resources/5%20User%20Trips%20by%20Gender%20by%20Weekday.png)
 
+#### 6. Top Starting Locations
+- Does NYC Relate to Des Moines?  In NYC, there is tourism in Manhattan, so bike rotation would be a good idea if Customers tend to pick up the bikes from Times Square and then leave them somewhere else.  On this map below, the 14,571 corresponds to approximately Times Square.  Des Moines is not as dense as NYC, so rotating the bikes may be a little easier to predict if tourists have to travel farther and if there is no subway there for riders to take their bike on.  It is unknown if workers would subscribe to ride to work the way they might in NYC, but Des Moines has similar square-like streets to Manhattan.  These are very different locations, but Des Moines would have a smaller bike fleet to be concerned about, which may make it more manageable.
 ![8_Top_Starting_Locations](https://github.com/Super-Manda/bikesharing/blob/main/Resources/8%20Top%20starting%20locations.png)
 
+#### 7. Highest to Lowest Ridership Times
+- The optimal time to repair the bikes and rotate the fleet without impacting users would be after the bars close and ridership is lowest, around 3-4 AM.
 ![9_Highest_To_Lowest_Ridership_Times](https://github.com/Super-Manda/bikesharing/blob/main/Resources/9%20Highest%20to%20Lowest%20Ridership.png)
 
-- Descriptions of each
+
 
 
 ## 3. Summary:
